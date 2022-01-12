@@ -198,6 +198,7 @@ background-color: #51a4f4;
 
 @media (max-width: 1400px) {
     .container-header {
+      width: 100%;
       padding: 0 20px;
     }
   }
